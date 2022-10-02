@@ -1,0 +1,8 @@
+[package]
+name = "fulgurite"
+description = "Custom Gamepad Library"
+version = "0.0.1"
+authors = ["Luna Hart luna@night.horse"]
+edition = "2021"
+
+[dependencies]
